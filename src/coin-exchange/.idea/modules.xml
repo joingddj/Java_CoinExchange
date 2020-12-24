@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/coin-admin/admin-api/admin-api.iml" filepath="$PROJECT_DIR$/coin-admin/admin-api/admin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-admin/admin-service/admin-service.iml" filepath="$PROJECT_DIR$/coin-admin/admin-service/admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-iaas/authorization-server/authorization-server.iml" filepath="$PROJECT_DIR$/coin-iaas/authorization-server/authorization-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-chan/chan-api/chan-api.iml" filepath="$PROJECT_DIR$/coin-chan/chan-api/chan-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-chan/chan-service/chan-service.iml" filepath="$PROJECT_DIR$/coin-chan/chan-service/chan-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-admin/coin-admin.iml" filepath="$PROJECT_DIR$/coin-admin/coin-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-chan/coin-chan.iml" filepath="$PROJECT_DIR$/coin-chan/coin-chan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-common/coin-common.iml" filepath="$PROJECT_DIR$/coin-common/coin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-exchange.iml" filepath="$PROJECT_DIR$/coin-exchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-finance/coin-finance.iml" filepath="$PROJECT_DIR$/coin-finance/coin-finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-iaas/coin-iaas.iml" filepath="$PROJECT_DIR$/coin-iaas/coin-iaas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-member/coin-member.iml" filepath="$PROJECT_DIR$/coin-member/coin-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-statistics/coin-statistics.iml" filepath="$PROJECT_DIR$/coin-statistics/coin-statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-task/coin-task.iml" filepath="$PROJECT_DIR$/coin-task/coin-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exchange-engine/exchange-api/exchange-api.iml" filepath="$PROJECT_DIR$/exchange-engine/exchange-api/exchange-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exchange-engine/exchange-engine.iml" filepath="$PROJECT_DIR$/exchange-engine/exchange-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exchange-engine/exchange-service/exchange-service.iml" filepath="$PROJECT_DIR$/exchange-engine/exchange-service/exchange-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-finance/finance-api/finance-api.iml" filepath="$PROJECT_DIR$/coin-finance/finance-api/finance-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-finance/finance-service/finance-service.iml" filepath="$PROJECT_DIR$/coin-finance/finance-service/finance-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-iaas/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/coin-iaas/gateway-server/gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/match-engine/match-api/match-api.iml" filepath="$PROJECT_DIR$/match-engine/match-api/match-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/match-engine/match-engine.iml" filepath="$PROJECT_DIR$/match-engine/match-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/match-engine/match-service/match-service.iml" filepath="$PROJECT_DIR$/match-engine/match-service/match-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-member/member-api/member-api.iml" filepath="$PROJECT_DIR$/coin-member/member-api/member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-member/member-service/member-service.iml" filepath="$PROJECT_DIR$/coin-member/member-service/member-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-statistics/statistics-api/statistics-api.iml" filepath="$PROJECT_DIR$/coin-statistics/statistics-api/statistics-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coin-statistics/statistics-service/statistics-service.iml" filepath="$PROJECT_DIR$/coin-statistics/statistics-service/statistics-service.iml" />
+    </modules>
+  </component>
+</project>
